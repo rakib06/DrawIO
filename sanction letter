@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T09:05:29.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="V24V896r5BBI8EHkh448" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-13T09:10:41.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kC8JaT1kZNUtCSXbCRZt" version="21.3.8" type="github" pages="8">
   <diagram name="Page-1" id="ibqdcN8GSbpYRpu4d2pv">
     <mxGraphModel dx="756" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -455,12 +455,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PJ8vyBlZehcZ8eCmQB4S" name="OtherConditionsTable">
+  <diagram id="PJ8vyBlZehcZ8eCmQB4S" name="OthersTable">
     <mxGraphModel dx="756" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZOZ8n2p3DCjZYjEcvR4C-1" value="OtherConditionsTableInfo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ZOZ8n2p3DCjZYjEcvR4C-1" value="OtherConditionsTableInfo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#d79b00;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZOZ8n2p3DCjZYjEcvR4C-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZOZ8n2p3DCjZYjEcvR4C-1">
@@ -475,6 +475,32 @@
         <mxCell id="ZOZ8n2p3DCjZYjEcvR4C-5" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZOZ8n2p3DCjZYjEcvR4C-1">
           <mxGeometry y="104" width="340" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-1" value="FinancialCovenantsTableInfo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="340" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-2" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-EdezLDgZi4J78HEwLDY-1">
+          <mxGeometry y="26" width="340" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-3" value="ref_master_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-EdezLDgZi4J78HEwLDY-1">
+          <mxGeometry y="48" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-4" value="Covenants" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-EdezLDgZi4J78HEwLDY-1">
+          <mxGeometry y="74" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-5" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-EdezLDgZi4J78HEwLDY-1">
+          <mxGeometry y="100" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EdezLDgZi4J78HEwLDY-6" value="Remarks" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-EdezLDgZi4J78HEwLDY-1">
+          <mxGeometry y="126" width="340" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oBL12HFcoCpelcqzXpnv" name="FinancialCovenantsTableInfo">
+    <mxGraphModel dx="756" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
