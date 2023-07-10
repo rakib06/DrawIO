@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T06:09:12.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="maMNctB4t0z5udiIj3Nn" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-10T06:10:06.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Eht2uj-ChrlsL8uaaX-E" version="21.6.1" type="github" pages="2">
   <diagram name="surface" id="IxwWd1vyqPSLj5sLqrsa">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,9 +41,6 @@
         </mxCell>
         <mxCell id="hPlUhC7VDxN5YeeYQSAu-1" value="Input:&lt;br&gt;CSV File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="305" y="95" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hPlUhC7VDxN5YeeYQSAu-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#F0913E;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
-          <mxGeometry x="230" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hPlUhC7VDxN5YeeYQSAu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPlUhC7VDxN5YeeYQSAu-4">
           <mxGeometry relative="1" as="geometry">
