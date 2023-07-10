@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T05:48:32.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hn1W1H9Wohb9C0__Aank" version="21.6.1" type="github">
-  <diagram name="Page-1" id="IxwWd1vyqPSLj5sLqrsa">
+<mxfile host="app.diagrams.net" modified="2023-07-10T06:09:12.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="maMNctB4t0z5udiIj3Nn" version="21.6.1" type="github" pages="2">
+  <diagram name="surface" id="IxwWd1vyqPSLj5sLqrsa">
     <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -24,6 +24,75 @@
         </mxCell>
         <mxCell id="ziZacv3kFRJm_CnA_PTC-7" value="Extract&lt;br&gt;and Formatting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="550" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UZCBNjy8cqWRrrRjg9_3" name="Extract_And_Formattng">
+    <mxGraphModel dx="1035" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="315" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlUhC7VDxN5YeeYQSAu-1" target="hPlUhC7VDxN5YeeYQSAu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-1" value="Input:&lt;br&gt;CSV File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#F0913E;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPlUhC7VDxN5YeeYQSAu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPlUhC7VDxN5YeeYQSAu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-4" value="Take the raw portion:&lt;br&gt;using section" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-5" value="Take the raw portion from Section:&lt;br&gt;using table start &amp;amp; end index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-6" value="Table" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-7" value="Section" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-8" value="Select Columns that we will need to extract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-9" value="Columns" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-10" value="Extract data using column index and others logic&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-11" value="Data" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="85" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-14" value="Take the raw portion:&lt;br&gt;from section, using paragraph start and end index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-15" value="paragraph" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-16" value="Get target Text from paragraph using the regular expression or other relevant logics&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlUhC7VDxN5YeeYQSAu-17" value="Text/Data" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
