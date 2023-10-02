@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T06:58:21.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="6yMTii1wh9WaS6gDLgKh" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T06:58:53.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YS-TuYUsdN5LilCW1-k1" version="22.0.0" type="github">
   <diagram name="Page-1" id="fhtUjVtqZ9_bUFBRk7mS">
     <mxGraphModel dx="1730" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
         <mxCell id="uWUAO5jNlFo_egi_h41s-3" value="Contract (new)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWUAO5jNlFo_egi_h41s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uWUAO5jNlFo_egi_h41s-4">
+        <mxCell id="uWUAO5jNlFo_egi_h41s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uWUAO5jNlFo_egi_h41s-4" target="uWUAO5jNlFo_egi_h41s-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="310" as="targetPoint" />
           </mxGeometry>
@@ -45,17 +45,8 @@
         <mxCell id="uWUAO5jNlFo_egi_h41s-9" value="Credit Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWUAO5jNlFo_egi_h41s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uWUAO5jNlFo_egi_h41s-11" target="uWUAO5jNlFo_egi_h41s-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uWUAO5jNlFo_egi_h41s-11" value="Search" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="uWUAO5jNlFo_egi_h41s-12" value="Make New Posting (New Tab)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uWUAO5jNlFo_egi_h41s-14" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uWUAO5jNlFo_egi_h41s-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uWUAO5jNlFo_egi_h41s-16">
           <mxGeometry relative="1" as="geometry">
@@ -63,13 +54,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uWUAO5jNlFo_egi_h41s-16" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWUAO5jNlFo_egi_h41s-19" value="Approve Pending&lt;br&gt;edit_mkck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWUAO5jNlFo_egi_h41s-20" value="Assign FI subject Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uWUAO5jNlFo_egi_h41s-21" value="Search" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
